@@ -1,0 +1,1 @@
+const util_j600 = (d: any) => d;
